@@ -1,0 +1,121 @@
+{"Canada":[{
+  "year": 1980,
+  "men": 10,
+  "women": 20,
+"population": 30000
+},
+{
+  "year": 1990,
+  "men": 20,
+  "women": 30,
+"population": 40000
+},
+{
+  "year": 2000,
+  "men": 30,
+  "women": 20,
+"population": 50000
+},
+{
+  "year": 2010,
+ "men": 10,
+  "women": 40,
+"population": 60000
+},
+{
+  "year": 2020,
+  "men": 40,
+  "women": 20,
+"population": 70000
+}],
+"India":[{
+  "year": 1980,
+  "men": 20,
+  "women": 30,
+"population": 80000
+},
+{
+  "year": 1990,
+  "men": 30,
+  "women": 40,
+"population": 70000
+},
+{
+  "year": 2000,
+  "men": 30,
+  "women": 10,
+"population": 60000
+},
+{
+  "year": 2010,
+ "men": 10,
+  "women": 40,
+"population": 50000
+},
+{
+  "year": 2020,
+  "men": 20,
+  "women": 35,
+"population": 40000
+}],
+"Australia":[{
+ "year": 1980,
+ "men": 10,
+ "women": 20,
+"population": 60000
+},
+{
+ "year": 1990,
+ "men": 20,
+ "women": 40,
+"population": 30000
+},
+{
+ "year": 2000,
+ "men": 10,
+ "women": 15,
+"population": 70000
+},
+{
+ "year": 2010,
+"men": 10,
+ "women": 30,
+"population": 55000
+},
+{
+ "year": 2020,
+ "men": 20,
+ "women": 45,
+"population": 45000
+}],
+
+"China":[{
+ "year": 1980,
+ "men": 20,
+ "women": 25,
+"population": 70000
+},
+{
+ "year": 1990,
+ "men": 30,
+ "women": 40,
+"population": 75000
+},
+{
+ "year": 2000,
+ "men": 15,
+ "women": 10,
+"population": 55000
+},
+{
+ "year": 2010,
+"men": 20,
+ "women": 30,
+"population": 50000
+},
+{
+ "year": 2020,
+ "men": 20,
+ "women": 25,
+"population": 22000
+}]}
